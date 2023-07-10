@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Transit Court</string>
+    <string name="transit_court">Transit Court</string>
+    <string name="metro">Metro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_page">Settings Page</string>
+</resources>
